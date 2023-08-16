@@ -1,0 +1,8 @@
+{
+    "outline.collapseItems": "alwaysCollapse",
+    "editor.minimap.size": "fit",
+    "editor.minimap.side": "left",
+    "editor.minimap.showSlider": "mouseover",
+    "diffEditor.wordWrap": "on",
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiBlack"
+}
